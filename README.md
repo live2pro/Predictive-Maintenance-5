@@ -2,7 +2,7 @@
 Predictive maintenance system for smarter factories
 
 Binary Classification
-run binaryclassificationfinal.py
+run Predictive Maintenance.ipynb
 
 Multivariate Classification
-run multivariateclassificationfinal.py
+run Predictive Maintenance.ipynb
