@@ -1,0 +1,198 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:CircleProgressView="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:CircleProgressView="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="top|center"
+    android:orientation="vertical"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:text="ENGINE 1"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <at.grabner.circleprogress.CircleProgressView
+        android:id="@+id/circleView"
+        android:layout_margin="20dp"
+        android:layout_width="200dp"
+        android:layout_height="170dp"
+        CircleProgressView:cpv_autoTextSize="true"
+        CircleProgressView:cpv_barColor="@color/primary"
+        CircleProgressView:cpv_barWidth="35dp"
+        CircleProgressView:cpv_innerContourSize="0dp"
+        CircleProgressView:cpv_maxValue="100"
+        CircleProgressView:cpv_outerContourSize="0dp"
+        CircleProgressView:cpv_rimColor="@color/primary_light"
+        CircleProgressView:cpv_rimWidth="35dp"
+        CircleProgressView:cpv_seekMode="false"
+        CircleProgressView:cpv_showUnit="true"
+        CircleProgressView:cpv_spinColor="@color/primary"
+        CircleProgressView:cpv_textColor="@color/primary_dark"
+        CircleProgressView:cpv_textScale="1"
+        CircleProgressView:cpv_unit="RUL"
+        CircleProgressView:cpv_unitColor="@color/primary_light"
+        CircleProgressView:cpv_unitPosition="right_top"
+        CircleProgressView:cpv_unitScale="1"
+        CircleProgressView:cpv_value="10" />
+
+    <TextView
+        android:text="MAINTANENCE: NOT REQUIRED"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginBottom="10dp"
+        android:background="@android:color/darker_gray"/>
+
+    <TextView
+        android:text="ENGINE 2"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <at.grabner.circleprogress.CircleProgressView
+        android:id="@+id/circleView1"
+        android:layout_width="200dp"
+        android:layout_height="170dp"
+        android:layout_margin="20dp"
+        CircleProgressView:cpv_autoTextSize="true"
+        CircleProgressView:cpv_barColor="@color/primary"
+        CircleProgressView:cpv_barWidth="35dp"
+        CircleProgressView:cpv_innerContourSize="0dp"
+        CircleProgressView:cpv_maxValue="100"
+        CircleProgressView:cpv_outerContourSize="0dp"
+        CircleProgressView:cpv_rimColor="@color/primary_light"
+        CircleProgressView:cpv_rimWidth="35dp"
+        CircleProgressView:cpv_seekMode="false"
+        CircleProgressView:cpv_showUnit="true"
+        CircleProgressView:cpv_spinColor="@color/primary"
+        CircleProgressView:cpv_textColor="@color/primary_dark"
+        CircleProgressView:cpv_textScale="1"
+        CircleProgressView:cpv_unit="RUL"
+        CircleProgressView:cpv_unitColor="@color/primary_light"
+        CircleProgressView:cpv_unitPosition="right_top"
+        CircleProgressView:cpv_unitScale="1"
+        CircleProgressView:cpv_value="10" />
+
+    <TextView
+        android:text="MAINTANENCE: NOT REQUIRED"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginBottom="10dp"
+        android:background="@android:color/darker_gray"/>
+
+    <TextView
+        android:text="ENGINE 3"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <at.grabner.circleprogress.CircleProgressView
+        android:id="@+id/circleView2"
+        android:layout_width="200dp"
+        android:layout_height="170dp"
+        android:layout_margin="20dp"
+        CircleProgressView:cpv_autoTextSize="true"
+        CircleProgressView:cpv_barColor="@color/primary"
+        CircleProgressView:cpv_barWidth="35dp"
+        CircleProgressView:cpv_innerContourSize="0dp"
+        CircleProgressView:cpv_maxValue="100"
+        CircleProgressView:cpv_outerContourSize="0dp"
+        CircleProgressView:cpv_rimColor="@color/primary_light"
+        CircleProgressView:cpv_rimWidth="35dp"
+        CircleProgressView:cpv_showUnit="true"
+        CircleProgressView:cpv_seekMode="false"
+        CircleProgressView:cpv_spinColor="@color/primary"
+        CircleProgressView:cpv_textColor="@color/primary_dark"
+        CircleProgressView:cpv_textScale="1"
+        CircleProgressView:cpv_unit="RUL"
+        CircleProgressView:cpv_unitColor="@color/primary_light"
+        CircleProgressView:cpv_unitPosition="right_top"
+        CircleProgressView:cpv_unitScale="1"
+        CircleProgressView:cpv_value="10" />
+
+    <TextView
+        android:text="MAINTANENCE: NOT REQUIRED"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginBottom="10dp"
+        android:background="@android:color/darker_gray"/>
+
+    <TextView
+        android:text="ENGINE 4"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <at.grabner.circleprogress.CircleProgressView
+        android:id="@+id/circleView3"
+        android:layout_width="200dp"
+        android:layout_height="170dp"
+        android:layout_margin="20dp"
+        CircleProgressView:cpv_autoTextSize="true"
+        CircleProgressView:cpv_barColor="@color/primary"
+        CircleProgressView:cpv_barWidth="35dp"
+        CircleProgressView:cpv_innerContourSize="0dp"
+        CircleProgressView:cpv_maxValue="100"
+        CircleProgressView:cpv_outerContourSize="0dp"
+        CircleProgressView:cpv_rimColor="@color/primary_light"
+        CircleProgressView:cpv_rimWidth="35dp"
+        CircleProgressView:cpv_seekMode="false"
+        CircleProgressView:cpv_showUnit="true"
+        CircleProgressView:cpv_spinColor="@color/primary"
+        CircleProgressView:cpv_textColor="@color/primary_dark"
+        CircleProgressView:cpv_textScale="1"
+        CircleProgressView:cpv_unit="RUL"
+        CircleProgressView:cpv_unitColor="@color/primary_light"
+        CircleProgressView:cpv_unitPosition="right_top"
+        CircleProgressView:cpv_unitScale="1"
+        CircleProgressView:cpv_value="10" />
+
+    <TextView
+        android:text="MAINTANENCE: NOT REQUIRED"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginBottom="10dp"
+        android:background="@android:color/darker_gray"/>
+
+</LinearLayout>
+
+    </ScrollView>
