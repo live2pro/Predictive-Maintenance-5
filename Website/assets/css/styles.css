@@ -1,0 +1,42 @@
+#head{
+  padding:40px;
+  font-family:"Times New Roman";
+  font-size:50px;
+}
+
+.meter{
+  padding:10px;
+  font-family:Georgia;
+  text-align:center;
+}
+
+.line{
+  color:white;
+  border-color:white;
+  border-bottom-width:20px;
+  padding-bottom:5px;
+}
+
+h1.engine_type{
+    color: white;
+    font-family: arial;
+    padding-bottom: 20px;
+
+}
+
+#indicatorContainer{
+  padding-bottom: 40px; 
+}
+#indicatorContainer2{
+  padding-bottom: 40px; 
+}
+#indicatorContainer3{
+  padding-bottom: 40px; 
+}
+#indicatorContainer4{
+  padding-bottom: 40px; 
+}
+div.alert{
+  font-size: 26px;
+  color: white;
+}
