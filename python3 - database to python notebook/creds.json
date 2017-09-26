@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "predictive-maintenance-52615",
+  "private_key_id": "ffe2e07e4b4de769812a2927da98af7d35c7cf81",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCrc8kkV5Gmpnb5\nfrEpeAsTRAQSjacDLsk3IXooEkJds0fqCPIWDLzAh3H4bNOYrYDhQchiKMsJ7Z8S\ntGGt3wS120ZB5TOdt3bc4rnbnAtqhOA1dMJ/7xCBMRjxGtA2mmO9IlWS8eHENAyX\nuduy/NLqgbdiBFL1mMsrG3HPI5TBE84cMzEqs1vPkz/oc/vlzrBej6ocxMrnY7Kj\ntdPYM+vsD+VizRVb5ll3rz06IucJ4AQ0wZO5OMG9+AEGBkqjq7yc3f9KNypeMPP8\n+qBcQJ1bG8FuJkRALqt8lVuhun4OYCGvw6iftKHKwBPuiMQmzSyfv2ibsf6InAl4\nR2G/O9+HAgMBAAECggEAF/t7t2zVBPxu/Z+Q9M3ZBWpeWXayqw7N0DuLZJ8yj6cc\nGEAFFjwqNjzGnpXLvqUHtzqQ5tjG7I4Y/LBPo4G5HR5dbv/lCZrX8mDNLPYLC2zS\nbJfMUcHlIJ/Mry5te93PtW01OXdCecPqvlnIl0+nHxdi8+p1QkELq5giAh6mLaA2\npa8X1mRBdg2GO3X/Vs+ONxg+d/+dXRQ93WR731jU07sRKxUCTYtEsQpmLoc8Ecie\ntP7QmcUH5nFAzpKkmRAburiifad00tFzl3SemRHTopDqqM2rwERUamJil1BXwcke\nzyYCZSZrNil8Y6vPlVVyXlDpxMZLB1Y6uwoQ/jIQ4QKBgQDhWk+gf42ADtC+EWFc\ncg9UCo8aeqdNQblh07iXN4wRf+0RqDnChuCQRauNkzE4Lb83QKb7HD5GmUpRDLpo\ns6sVR0XrfB1hPcmYr//pZWWMTOsDyoftlP+6zKVqz/FmwwklS8m2nXvtWhs08JMA\n7rHRrf87CaZWwmB56/vuP2PxJwKBgQDCxOvlTEbgGv0A8J9/+KFmdzQoIjez9kK+\ny1Wg3frGG/36Khi/J5VFahiYqESqlQKJ5VvFrHbZJ/NoCFq9LBMLPSO5NLTAO97O\nkRuNy+OwoXzrqyiWjiNpO2nQYzEsRbKTNvN+R6jP3ZFLLmo3FD1znAGRhVQKLSjm\nWQPHYYraoQKBgQDSrxNY00egXLmNqUQkIMLx6HlH4Tn+wZ6mtkGSpqz+Q2KJqoRt\nuJnEaE5uKxnOEv79kiVLCWmzqWbQhZzVfHxLhXn6Iex52EFczdbtBw48cEEcJ0KT\nvUSlCOTyCnz/fQJU6xkn8O5GxoI/KVfWfFKk3Q6MzIXGAS4fbp/3ay5t6wKBgGrw\n1NVB3GiQaPprJCiPy48HRIwEvbECNgOsgYeiWl8MX5dMJepPQZarenXXblx7FLnC\nRXF0EI2LcgpdC/VyjcJN/59hYR1rwhqJcieZG5uQD5cWk2KXCLpu9NqGnClC25oZ\nQfjEP9xiO7Sb95XmdxdTQUk1e79arGpN1dVTqXoBAoGBAJuQ+hVV8Jj4wfybT5rE\nixkfu+BcoZ3PECpgtox7q22yJvaHXy16l59ILT5mXgSI8imMRn55Sg0SOkCYFlNo\nVb8lBQsWHucuD8Tg7FWqCHVnyaGy4x6yrNNH7qZcuBtinh1mumG/h3WwEZkAkTvz\nZRE1agX/2u/5ax+79AP8nKXn\n-----END PRIVATE KEY-----\n",
+  "client_email": "predictive-maintenance-52615@appspot.gserviceaccount.com",
+  "client_id": "115837546209290687582",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/predictive-maintenance-52615%40appspot.gserviceaccount.com"
+}
